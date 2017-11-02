@@ -1,0 +1,31 @@
+﻿<Window x:Class="UIApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UIApplication"
+        mc:Ignorable="d"
+        Title="MainWindow" FontSize="26" Height="350" Width="525">
+    <WrapPanel>
+        <StackPanel Margin="2">
+            <WrapPanel>
+                <Label>Enter The Name:</Label>
+                <TextBox x:Name="txtName" Margin="2" MinWidth="200"></TextBox>
+            </WrapPanel>
+            <WrapPanel>
+                <Label>Enter The Address:</Label>
+                <TextBox x:Name="txtAddress" Margin="2" MinWidth="200"></TextBox>
+            </WrapPanel>
+            <WrapPanel>
+                <Label>Enter The Salary:</Label>
+                <TextBox x:Name="txtSalary" Margin="2" MinWidth="200"></TextBox>
+            </WrapPanel>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Center">
+            <WrapPanel HorizontalAlignment="Center">
+                <Button x:Name="btnDisplay" Margin="5" Click="onClick">Display Data</Button>
+                <Button x:Name="btnCancel" Margin="5">Cancel data</Button>
+            </WrapPanel>
+        </StackPanel>
+    </WrapPanel>
+</Window>

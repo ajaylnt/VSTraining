@@ -1,0 +1,14 @@
+C:\2NOV2017\WPF\UIApplication\UIApplication\bin\Debug\UIApplication.exe.config
+C:\2NOV2017\WPF\UIApplication\UIApplication\bin\Debug\UIApplication.exe
+C:\2NOV2017\WPF\UIApplication\UIApplication\bin\Debug\UIApplication.pdb
+C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\UIApplication.csprojResolveAssemblyReference.cache
+C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\MainWindow.g.cs
+C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\App.g.cs
+C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\UIApplication_MarkupCompile.cache
+C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\UIApplication_MarkupCompile.lref
+C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\MainWindow.baml
+C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\UIApplication.g.resources
+C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\UIApplication.Properties.Resources.resources
+C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\UIApplication.csproj.GenerateResource.Cache
+C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\UIApplication.exe
+C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\UIApplication.pdb
