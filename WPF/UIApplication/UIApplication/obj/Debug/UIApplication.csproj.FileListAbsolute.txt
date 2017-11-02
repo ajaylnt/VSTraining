@@ -12,3 +12,7 @@ C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\UIApplication.Properties.R
 C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\UIApplication.csproj.GenerateResource.Cache
 C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\UIApplication.exe
 C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\UIApplication.pdb
+C:\2NOV2017\WPF\UIApplication\UIApplication\bin\Debug\UIApplication.exe.manifest
+C:\2NOV2017\WPF\UIApplication\UIApplication\bin\Debug\UIApplication.application
+C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\UIApplication.exe.manifest
+C:\2NOV2017\WPF\UIApplication\UIApplication\obj\Debug\UIApplication.application
